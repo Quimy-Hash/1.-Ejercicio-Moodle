@@ -1,0 +1,56 @@
+.imagen1  {
+width: 400px;
+height: 400px;
+}
+.imagen2{
+
+width: 400px;
+height: 400px;
+}
+.imagen3 {
+width: 400px;
+height: 400px;
+}
+.imagen4 { float: right;
+    width: 145px;
+    height: 118px;
+    }
+header{
+    border: 4px dashed rgb(68, 61, 58);
+      margin-bottom: 20px;
+      padding-bottom: 5px;
+      padding-left: 5px;
+      padding-right: 5px;
+}
+
+.seccio1 {
+    background-color: fuchsia;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 40px
+
+}
+
+.seccio2 {
+    background-color: rgb(255, 230, 0);
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 40px;
+}
+
+.seccio3 {
+    background-color: rgb(3, 238, 255);
+padding-bottom: 40px;
+padding-right: 20px;
+padding-left: 20px;
+padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
